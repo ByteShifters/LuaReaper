@@ -50,7 +50,7 @@ LuaReaper is designed for developers who work with Lua scripts and need a reliab
 
 1. Clone the repository:
 ```
-git clone https://github.com/0x0060/LuaReaper.git
+git clone https://github.com/ByteShifters/LuaReaper.git
 cd LuaReaper
 ```
 
