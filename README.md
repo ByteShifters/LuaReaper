@@ -133,10 +133,10 @@ We welcome contributions from the community! To contribute to this project, plea
 
 If you have any questions or feedback, feel free to reach out:
 
-- [0x0060](https://0x0060.dev)
-- [Email](mailto:ren@0x0060.dev)
+- [Website](https://ByteShifters.com)
+- [Email](mailto:ren@ByteShifters.com)
 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/0x0060/LuaReaper/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ByteShifters/LuaReaper/blob/main/LICENSE) file for more information.
